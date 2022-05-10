@@ -1,0 +1,3 @@
+[submodule "base_folder/cytee-demo-project"]
+	path = base_folder/cytee-demo-project
+	url = git@github.com:martenb-se/cytee-demo-project.git
