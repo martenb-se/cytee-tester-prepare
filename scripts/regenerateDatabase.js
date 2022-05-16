@@ -631,6 +631,7 @@ try{
       ],
       "returnValue": {
         "type": "array",
+        "equal": true,
         "value": [
           {
             "argument": "_array_0",
